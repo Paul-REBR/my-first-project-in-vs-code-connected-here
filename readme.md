@@ -1,7 +1,1 @@
-#my first writing in readme.mdy
-tyrytytr
-econvdfvdkfnvdfknvdkfnvkdf
-dgdf dg
-wefwefwefwefewf
-rteterter
-dsasad
+My first website created with html,css bootstrap
